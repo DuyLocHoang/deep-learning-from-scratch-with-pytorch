@@ -4,3 +4,4 @@ unet/data
 Yolov1/Dataset
 my_checkpoint.pth.tar
 unet/my_checkpoint.pth.tar
+.idea
